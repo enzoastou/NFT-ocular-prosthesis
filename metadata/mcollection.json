@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Prosthesis type",
+      "value": "Collection"
+    },
+    {
+      "trait_type": "Year of creation",
+      "value": "2012-2018"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Brown, green and yellow"
+    }
+  ],
+  "description": "The collection of all 8 real/custom ocular prosthesis from 2012 to 2018 at Dominique Charles-Messance's laboratory and Gilberto Martins' in Lyon, France.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYgjvbVacHcfdhEJCUZUie6fa3LprXFgoDEnKEh2RcFD3/Collection.jpg",
+  "name": "My Eyes & co from 2012 to 2018"
+}

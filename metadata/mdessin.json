@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Prosthesis type",
+      "value": "Drawing"
+    },
+    {
+      "trait_type": "Year of creation",
+      "value": "2022"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Brown"
+    }
+  ],
+  "description": "The 2022 drawing of a realistic ocular prosthesis I designed during my NFT lab at EPF school of engineering in Montpellier, France.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYgjvbVacHcfdhEJCUZUie6fa3LprXFgoDEnKEh2RcFD3/Dessin.png",
+  "name": "A drawn Eye"
+}

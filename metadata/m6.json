@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Prosthesis type",
+      "value": "Custom"
+    },
+    {
+      "trait_type": "Year of creation",
+      "value": "2015"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Green"
+    }
+  ],
+  "description": "The 2015 musical green \"geek\" ocular prosthesis I designed during my internship at Dominique Charles-Messance's laboratory in Lyon, France.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYgjvbVacHcfdhEJCUZUie6fa3LprXFgoDEnKEh2RcFD3/6.jpg",
+  "name": "A GEEK's Eye"
+}

@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Prosthesis type",
+      "value": "Custom"
+    },
+    {
+      "trait_type": "Year of creation",
+      "value": "2015"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    }
+  ],
+  "description": "The 2015 yellow silicon mold that is made upon my ocular hole to form the prosthesis with the adequate comfortable shape from Dominique Charles-Messance's laboratory in Lyon, France.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbEML3PDNSL4QwcKNsU4qzx79k3dBJLbvoCsRikpFhZCD",
+  "name": "A silicon Eye mold"
+}

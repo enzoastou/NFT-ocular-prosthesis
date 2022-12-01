@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Prosthesis type",
+      "value": "Real"
+    },
+    {
+      "trait_type": "Year of creation",
+      "value": "2015"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Brown"
+    }
+  ],
+  "description": "The 2015 real ocular prosthesis I needed after growing for a year at Dominique Charles-Messance's laboratory in Lyon, France.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYgjvbVacHcfdhEJCUZUie6fa3LprXFgoDEnKEh2RcFD3/1.jpg",
+  "name": "My Eye in 2015"
+}
