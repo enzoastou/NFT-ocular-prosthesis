@@ -1,2 +1,5 @@
-# NFT-ocular-prosthesis
-5th year cybersecurity project on NFTs about ocular prosthesis
+# Ocular prosthesis NFT collection
+
+## This NFT collection revolves around the ocular prosthesis of Enzo Fragale, a student at EPF Engineering School who was born with retinoblastoma and lost his right eye due to this cancer at 11 months old. Unique photos of real prosthesis put in evidence the handicraft involved in the process to make a realistic substitute to a human eye. Since prosthesis are changed every 1-5 years, they are unique and limited and one could be a proud honor of one of these NFTs. Several of them are prosthesis from the making off in the laboratory or even custom ones. Furthermore, by buying one of them, you will receive a vote to which eye would be drawn next in the NFT with a guaranteed selfie of the owner wearing it.
+
+### This project was done during EPF Engineering School's 5th year cybersecurity module of the Data Engineering Major.
